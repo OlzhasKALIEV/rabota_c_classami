@@ -1,9 +1,7 @@
 class Hamster:
-    color = 'white'
+    color = 'black'
 
-
-tom = Hamster()
+# tom = Hamster()
 # tom.color
-print(id(tom))
-
-del tom
+# print(id(tom))
+# del tom
