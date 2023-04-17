@@ -1,0 +1,2 @@
+class homyak:
+    pass
